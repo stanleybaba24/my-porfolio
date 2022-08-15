@@ -35,7 +35,7 @@ nav ul li {
 
 }
 nav ul li a {
-    color: white;
+    color: rgb(63, 23, 23);
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
